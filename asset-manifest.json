@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feliznavidad/static/css/main.e8544cdf.css",
+    "main.js": "/feliznavidad/static/js/main.1c5f6877.js",
+    "static/js/453.cda21d53.chunk.js": "/feliznavidad/static/js/453.cda21d53.chunk.js",
+    "index.html": "/feliznavidad/index.html",
+    "main.e8544cdf.css.map": "/feliznavidad/static/css/main.e8544cdf.css.map",
+    "main.1c5f6877.js.map": "/feliznavidad/static/js/main.1c5f6877.js.map",
+    "453.cda21d53.chunk.js.map": "/feliznavidad/static/js/453.cda21d53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8544cdf.css",
+    "static/js/main.1c5f6877.js"
+  ]
+}
